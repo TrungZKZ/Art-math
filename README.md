@@ -8,5 +8,8 @@ r=5\cos^{2}\left(\left(1-\frac{1}{a}\right)\theta\right) <br />
 \sin\left(x\cdot y\right)+\cos\left(x\cdot y\right)=1 <br />
 y=x\cdot\sin\left(\left(x\right)\right) <br />
 \left(x^{2}+y^{2}-1\right)^{3}=ex^{2}y^{3}  (CÁI NÀY HÌNH TRÁI TIM NÈ <3)<br />
+x\operatorname{mod}\left(x,y\right)=y\operatorname{mod}\left(y,x\right)<br />
+\tan\left(\cos\left(\frac{x}{y}\right)\right)=\cot\left(\ln\left(y^{2}\right)\right) <br />
+r\le\sin\left(\frac{a}{5}\theta\right)     (CÁI NÀY LÀ BÔNG HOA)<br />
 
 [Desmos](https://www.desmos.com/calculator?lang=vi)<br />
