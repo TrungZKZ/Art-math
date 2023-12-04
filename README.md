@@ -13,4 +13,4 @@ x\operatorname{mod}\left(x,y\right)=y\operatorname{mod}\left(y,x\right)<br />
 r\le\sin\left(\frac{a}{5}\theta\right)     (CÁI NÀY LÀ BÔNG HOA)<br />
 
 
-<a href="https://www.desmos.com/calculator?lang=vi"><img height="200" src="https://yt3.ggpht.com/a-/AAuE7mAFXzFAHIwLMhhmumsgwmeuL47HR9zr25MHAA=s900-mo-c-c0xffffffff-rj-k-no"  /></a>
+<a href="https://www.desmos.com/calculator?lang=vi"><img height="20" src="https://yt3.ggpht.com/a-/AAuE7mAFXzFAHIwLMhhmumsgwmeuL47HR9zr25MHAA=s900-mo-c-c0xffffffff-rj-k-no"  /></a>
