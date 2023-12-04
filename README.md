@@ -12,4 +12,5 @@ x\operatorname{mod}\left(x,y\right)=y\operatorname{mod}\left(y,x\right)<br />
 \tan\left(\cos\left(\frac{x}{y}\right)\right)=\cot\left(\ln\left(y^{2}\right)\right) <br />
 r\le\sin\left(\frac{a}{5}\theta\right)     (CÁI NÀY LÀ BÔNG HOA)<br />
 
-[Desmos](https://www.desmos.com/calculator?lang=vi)<br />
+
+<a href="https://www.desmos.com/calculator?lang=vi"><img height="200" src="https://yt3.ggpht.com/a-/AAuE7mAFXzFAHIwLMhhmumsgwmeuL47HR9zr25MHAA=s900-mo-c-c0xffffffff-rj-k-no"  /></a>
