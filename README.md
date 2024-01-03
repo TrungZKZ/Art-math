@@ -11,7 +11,7 @@ y=x\cdot\sin\left(\left(x\right)\right) <br />
 x\operatorname{mod}\left(x,y\right)=y\operatorname{mod}\left(y,x\right)<br />
 \tan\left(\cos\left(\frac{x}{y}\right)\right)=\cot\left(\ln\left(y^{2}\right)\right) <br />
 r\le\sin\left(\frac{a}{5}\theta\right)     (CÁI NÀY LÀ BÔNG HOA)<br />
-
+https://www.desmos.com/calculator/gygyxoplwj?lang=vi
 
 Copy code vào đây :
 
